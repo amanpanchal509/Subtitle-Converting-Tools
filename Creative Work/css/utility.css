@@ -1,0 +1,34 @@
+.flex {
+  display: flex;
+}
+.fcenter {
+  justify-content: center;
+  align-items: center;
+}
+.fjcenter {
+  justify-content: center;
+}
+.facenter {
+  align-items: center;
+}
+.fsb {
+  justify-content: space-between;
+}
+.m1 {
+  margin: 15px;
+}
+.p1 {
+  padding: 15px;
+}
+.fMerriweather {
+  font-family: "Merriweather", serif;
+}
+.fnoto {
+  font-family: "Noto Serif", serif;
+}
+.fnunito {
+  font-family: "Nunito", sans-serif;
+}
+.foswald {
+  font-family: "Oswald", sans-serif;
+}
