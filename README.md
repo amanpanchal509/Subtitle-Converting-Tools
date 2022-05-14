@@ -1,2 +1,2 @@
 # Creative-Web-Work
-All new ideas &amp; features for Web Devlopment
+Finding some Usefull ideas and Fixes to solve some tiny problems and make life easy :)
